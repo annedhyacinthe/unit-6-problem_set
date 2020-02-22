@@ -26,4 +26,4 @@
 
 ### Submission Deadline
 
-**You must open your pull request by 9AM on Monday, February 17!**
+**You must open your pull request by 9AM on Wednesday, February 26 in order to begin your Unit 6 Project**
