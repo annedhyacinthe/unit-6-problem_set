@@ -1,7 +1,9 @@
 ## Short Response Questions:
 
-1. What is the importance behind using asynchronous code?
+1. Why is asynchronous code such a fundamental part of programming in JavaScript?
 
-2. Describe some recent improvements in common APIs that allow developers to write asynchronous code more easily.
+2. What is a Promise? When were Promises made available in JavaScript? What did they replace and why do they represent an improvement on the previous way asynchronous functions were handled?
 
-3. Consider one of your favoriate apps. Describe how AJAX works in relation to your daily use of that app.
+3. What are `async` functions? What is their relationship to Promises? What improvements does `async`/`await` introduce?
+
+4. Consider one of your favorite apps. Describe one feature of that app that is likely powered by AJAX.
